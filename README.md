@@ -1,4 +1,4 @@
-# LibGen Frontend (Tkinter)
+# Spectral Denoising Frontend (Tkinter)
 
 A lightweight desktop GUI (Tkinter) for running the spectral denoising pipeline on **CSV** inputs and **MSP** files.  
 
