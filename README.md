@@ -1,4 +1,4 @@
-# LibGen Frontend (Tkinter)
+# Spectral Denoising Frontend (Tkinter)
 
 A lightweight desktop GUI (Tkinter) for running the spectral denoising pipeline on **CSV** inputs and **MSP** files.  
 
@@ -74,4 +74,4 @@ Choose where you would like to store your output, cleaned spectra file, in eithe
 
 Hit process, you are good to go! The program is usually very fast but if you have a large file (e.g. 28k spectra in VF library), it could take some time. It did not freeze!!
 
-**Ok that's it! If you have question please reach out to me (fzkong@ucdavis.edu), or raise an issue on GitHub.**
+***Ok that's it! If you have question please reach out to me (fzkong@ucdavis.edu), or raise an issue on GitHub.***
